@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fce4ec;
+            color: #d81b60;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 3em;
+            margin-top: 20px;
+        }
+        .images {
+            margin-top: 20px;
+        }
+        .images img {
+            margin: 10px;
+            width: 200px;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Birthday, [Name]!</h1>
+    <p>Wishing you a day filled with love, laughter, and joy!</p>
+    <div class="images">
+        <img src="https://via.placeholder.com/200" alt="Birthday Cake">
+        <img src="https://via.placeholder.com/200" alt="Party Balloons">
+        <img src="https://via.placeholder.com/200" alt="Gift Box">
+    </div>
+</body>
+</html>
